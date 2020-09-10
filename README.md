@@ -1,7 +1,7 @@
 
 # README
 
-This is the front end of the messaging app.
+This is the front end of the messaging app. I just started this project.
 
 # Authors
 
